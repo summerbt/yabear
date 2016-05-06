@@ -6,6 +6,19 @@
     transform: rotate(180deg);
 }
 
-.image1000 {
-    height: 1000px
+.image500 {
+    height: 500px;
+}
+
+header {
+    text-align: center;
+    background-color: #b599d1;
+}
+
+.introText {
+    color: aquamarine;
+}
+
+.introName {
+    color: aquamarine;
 }

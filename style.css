@@ -17,8 +17,32 @@ header {
 
 .introText {
     color: aquamarine;
+    font-family: 'Crafty Girls', cursive;
+    font-size: 2em;
 }
 
 .introName {
     color: aquamarine;
+    font-family: 'Crafty Girls', cursive;
+    font-size: 8em;
+}
+
+.blogContent {
+    width: 60%;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+.titleText {
+    font-family: 'Freckle Face', cursive;
+}
+
+.dateText {
+    font-family: 'Righteous', cursive;
+}
+
+.blogText {
+    font-family: 'Righteous', cursive;
 }
